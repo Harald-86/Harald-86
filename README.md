@@ -1,48 +1,34 @@
-### Hi there 👋
+### Hello my name is Harald Morten 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!--
-**Harald-86/Harald-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+- 🔭 I’m currently working on my Portfolio page
+- 🌱 I’m currently learning React
+- 📫 How to reach me: 
 
 
 
 
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+const Frontend Developer = {
+  
+  code: [Javascript, HTML, CSS, Sass],
+  tools: [React, Node.js, Bootstrap, VS Code, Wordpress, Postman, Adobe XD]
+  Education: {
+                        Noroff: "Front-end developer",
+                        Tekna: "Certified Process Operator Concrete ",
+                        Army : "Classified",
+                       
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  Hobbies : {
+              Gaming : "World of Warcraft, CS:GO, Ghost Recon Breakpoint, Resident Evil",
+              Nature : "Hiking, Tent, Fishing",
+              Food   : "Pizza",
+              
+
 }
 ```
+
+
+
+### Joke of the day
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
