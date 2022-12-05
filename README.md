@@ -9,7 +9,7 @@
 
 
 ```javascript
-const Frontend Developer = {
+const FrontendDeveloper = {
   
   code: [Javascript, HTML, CSS, Sass],
   tools: [React, Node.js, Bootstrap, VS Code, Wordpress, Postman, Adobe XD]
