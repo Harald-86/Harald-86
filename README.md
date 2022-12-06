@@ -12,7 +12,7 @@
 const FrontendDeveloper = {
   
   code: [Javascript, HTML, CSS, Sass],
-  tools: [React, Node.js, Bootstrap, VS Code, Wordpress, Postman, Adobe XD]
+  tools: [React, Next.js, Bootstrap, VS Code, Wordpress, Postman, Adobe XD]
   Education: {
                         Noroff: "Front-end developer",
                         Tekna: "Certified Process Operator Concrete ",
