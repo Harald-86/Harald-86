@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Portfolio page and 50 projects in 50 days(ish)
 - 🌱 I’m currently learning React
-- 📫 How to reach me: hm.tomter@gmail.com
+- 📫 How to reach me: hm.tomter@gmail.com | https/www.morten-tomter.dev
 
 
 
