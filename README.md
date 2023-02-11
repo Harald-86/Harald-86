@@ -1,6 +1,6 @@
 ### Hello my name is Harald Morten 👋
 
-- 🔭 I’m currently working on my [Portfolio](https://www.morten-tomter.dev) page and 50 projects in 50 days(ish) <-- 50ish is now on hold.
+- 🔭 I’m currently working on my [Portfolio](https://www.morten-tomter.dev) page and a E-commerce site
 - 🌱 I’m currently learning React
 - 📫 How to reach me: hm.tomter@gmail.com
 
