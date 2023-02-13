@@ -1,7 +1,7 @@
 ### Hello my name is Harald Morten 👋
 
 - 🔭 I’m currently working on my [Portfolio](https://www.morten-tomter.dev) page and a E-commerce site
-- 🌱 I’m currently learning React and Figma
+- 🌱 I’m currently learning React, Tailwind and Figma
 - 📫 How to reach me: hm.tomter@gmail.com
 
 
